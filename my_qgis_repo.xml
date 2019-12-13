@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="copyCoordsToIfh" version="0.1">
+    <pyqgis_plugin name="Copy Coords To Ifh" version="0.1">
         <description>This plugin shows sensitive data</description>
         <homepage>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master</homepage>
         <qgis_minimum_version>2.2</qgis_minimum_version>
