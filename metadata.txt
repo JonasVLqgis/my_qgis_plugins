@@ -16,8 +16,8 @@ email=jonasvl_qgis@outlook.com
 
 about=Copy coordinates from qgis to IFH (predefined layers and format).
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/JonasVLqgis/my_qgis_plugins/issues
+repository=https://github.com/JonasVLqgis/my_qgis_plugins
 # End of mandatory metadata
 
 # Recommended items:
