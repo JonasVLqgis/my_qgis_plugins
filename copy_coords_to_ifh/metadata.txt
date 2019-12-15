@@ -16,8 +16,8 @@ email=jonasvl_qgis@outlook.com
 
 about=Copy coordinates from qgis to IFH (predefined layers and format).
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/JonasVLqgis/my_qgis_plugins/issues
+repository=https://raw.githubusercontent.com/JonasVLqgis/my_qgis_plugins/master
 # End of mandatory metadata
 
 # Recommended items:
@@ -36,4 +36,3 @@ experimental=True
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
-
