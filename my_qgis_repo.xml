@@ -16,5 +16,13 @@
         <author_name>JonasVL</author_name>
         <download_url>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master/export_attributes_to_excel.zip?</download_url>
     </pyqgis_plugin>
+    <pyqgis_plugin name="auto_fields_proximus" version="0.3">
+        <description>This plugin shows sensitive data</description>
+        <homepage>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master</homepage>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>auto_fields_proximus.zip</file_name>
+        <author_name>JonasVL</author_name>
+        <download_url>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master/auto_fields_proximus.zip?</download_url>
+    </pyqgis_plugin>
 </plugins>
 
