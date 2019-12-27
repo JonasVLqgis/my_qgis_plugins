@@ -8,8 +8,6 @@
         <author_name>JonasVL</author_name>
         <download_url>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master/copy_coords_to_ifh.zip?</download_url>
     </pyqgis_plugin>
-</plugins>
-<plugins>
     <pyqgis_plugin name="export_attributes_to_excel" version="0.1">
         <description>This plugin shows sensitive data</description>
         <homepage>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master</homepage>
@@ -19,3 +17,4 @@
         <download_url>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master/export_attributes_to_excel.zip?</download_url>
     </pyqgis_plugin>
 </plugins>
+
