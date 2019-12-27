@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/export_attributes_to_excel" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
