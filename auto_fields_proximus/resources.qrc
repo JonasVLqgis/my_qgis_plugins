@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/auto_fields_proximus" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
