@@ -7,10 +7,10 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Export Attributes To Excel
+name=Copy Coords To Ifh
 qgisMinimumVersion=3.0
 description=Copy coordinates to an ifh importable format
-version=0.2
+version=0.1
 author=Jonas VL
 email=jonasvl_qgis@outlook.com
 
