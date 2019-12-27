@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="copy_coords_to_ifh" version="0.1">
+    <pyqgis_plugin name="copy_coords_to_ifh" version="0.2">
         <description>This plugin shows sensitive data</description>
         <homepage>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
@@ -8,7 +8,7 @@
         <author_name>JonasVL</author_name>
         <download_url>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master/copy_coords_to_ifh.zip?</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="export_attributes_to_excel" version="0.1">
+    <pyqgis_plugin name="export_attributes_to_excel" version="0.3">
         <description>This plugin shows sensitive data</description>
         <homepage>https://github.com/JonasVLqgis/my_qgis_plugins/raw/master</homepage>
         <qgis_minimum_version>3.0</qgis_minimum_version>
